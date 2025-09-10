@@ -10,6 +10,8 @@ from cognite.client.data_classes.filters import Prefix, ContainsAny
 
 from ice_cream_factory_api import IceCreamFactoryAPI
 
+
+
 from cognite.client.config import global_config
 global_config.disable_pypi_version_check = True
 
